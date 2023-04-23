@@ -1,10 +1,10 @@
-# GTA Sammel Bot
-REQUIRED PROGRAMMS TO RUN: Autohotkey
+# GTA FreeCity Life Sammel Bot
+BENÖTIGTE PROGRAMME ZUM STARTEN: Autohotkey
 
 https://www.autohotkey.com/
 
-Quick Setup Guide:
+Schnelle Installations anleitung:
 
-1.) Download Autohotkey and install it.
+1.) Downloade Autohotkey und Installiere es.
 
-2.) Download the GTA Sammel Bot.exe and run it.
+2.) Downloade den Bot und starte ihm.
