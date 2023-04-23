@@ -3,7 +3,7 @@ BENÖTIGTE PROGRAMME ZUM STARTEN: Autohotkey
 
 https://www.autohotkey.com/
 
-Schnelle Installations anleitung:
+Installations anleitung:
 
 1.) Downloade Autohotkey und Installiere es.
 
