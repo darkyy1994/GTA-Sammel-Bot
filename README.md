@@ -7,4 +7,4 @@ Installations anleitung:
 
 1.) Downloade Autohotkey und Installiere es.
 
-2.) Downloade den Bot und starte ihm.
+2.) Bot runterladen und starten.
